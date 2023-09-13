@@ -1,5 +1,8 @@
 # AlgoÉTS 
 
+
+[Discord](https://discord.gg/8p83HKte)
+
 ## Le club de trading algorithmique de l’École de technologie supérieure (ÉTS).
 ### Le seul club de science de données de l'ÉTS
 
@@ -20,4 +23,3 @@ Représenter l’ÉTS, une université spécialisée en génie appliqué, aux co
 
 ###  Infrastructure - BullETS
 Développer notre propre librairie pour tester des algorithmes de trading
-
